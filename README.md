@@ -1,2 +1,2 @@
 # Exercism-Exercises
-Exercism C# Exercises (exercism.io)
+Exercism Exercises (exercism.io)
