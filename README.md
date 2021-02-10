@@ -1,2 +1,2 @@
-# Exercism-Exercises
-Exercism Exercises (exercism.io)
+# Exercism
+My solutions to challenges on exercism.io
